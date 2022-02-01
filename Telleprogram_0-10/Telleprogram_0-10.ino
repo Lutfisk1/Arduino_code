@@ -14,3 +14,5 @@ void loop
   Serial.println (potVal);
   Serial.println ("  ");
   Serial.println(voltage);
+
+Dette er confusion
