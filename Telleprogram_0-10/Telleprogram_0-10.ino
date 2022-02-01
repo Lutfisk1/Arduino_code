@@ -15,4 +15,4 @@ void loop
   Serial.println ("  ");
   Serial.println(voltage);
 
-Dette er confusion
+  //test tehhydfet4w

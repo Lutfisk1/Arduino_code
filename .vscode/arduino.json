@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Telleprogram_0-10/Telleprogram_0-10.ino"
+}
